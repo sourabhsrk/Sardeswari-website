@@ -1,3 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
-    margin: 0
+    margin: 0 auto;
+    padding: 0
+}
+
+.container {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    /* overflow: hidden; */
+}
+
+.bgVideo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the video covers the container */
+    z-index: -2; /* Makes sure the video is behind the content */
+}
+
+.content {
+    z-index: 1; /* Ensures content is above the background video */
+    position: relative;
+}
+
+nav {
+    font-size: 20px;
+    font-weight: bold;
+    height: 140px;
+    padding-top: 20px;
+    z-index: 10;
+}
+
+.navBarScrolled {
+    position: fixed;
+    /* background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); */
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav li {
+    height: 110px;
+}
+
+nav li:first-child {
+ margin-right: auto;
+}
+
+@media screen and (min-width: 1275px) {
+    nav li:first-child {
+        margin-right: auto;
+        margin-left: 6em;
+    }
+    
+    nav li:nth-last-child(2) {
+        margin-right: 6em;
+    }
+}
+
+nav a {
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}
+
+nav a:hover {
+    color: blue;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark transparent overlay */
+    z-index: -1;
+}
+
+.sideBar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 280px;
+    background-color: rgba(255, 255, 255, 0.2);;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-shadow: -10px 0 10px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+}
+
+.hideSideBar {
+    display: none;
+}
+
+@media(max-width: 1100px){
+    .hideOnMobile {
+        display: none;
+    }
+}
+
+@media(min-width: 1100px) {
+    .hideOnDesktop {
+        display: none;
+    }
+}
+
+@media(max-width: 400px) {
+    .sideBar {
+        width: 100%;
+        align-items: center;
+    }
 }
