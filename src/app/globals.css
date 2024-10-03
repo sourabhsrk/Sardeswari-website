@@ -1,6 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.open-sans-font {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
 
 body {
     margin: 0 auto;
@@ -85,7 +88,7 @@ nav a {
 }
 
 nav a:hover {
-    color: blue;
+    color: darkorange;
 }
 
 .overlay {

@@ -1,4 +1,6 @@
+import Landing from "@/Components/Landing/Landing";
 import Navbar from "@/Components/Navbar";
+import PopularItems from "@/Components/PopularItems/PopularItems";
 
 export default function Home() {
   return (
@@ -16,6 +18,12 @@ export default function Home() {
       <div className="overlay"></div>
       <div className="content">
         <Navbar />
+        <section id='hero'>
+          <Landing />
+        </section>
+        <section id='popularItems'>
+          <PopularItems />
+        </section>
       </div>
       </div>
   
