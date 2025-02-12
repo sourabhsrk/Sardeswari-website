@@ -1,6 +1,11 @@
+import { MenuItemType } from '@/types/commonTypes';
 import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
 
-export default function MenuItemCard({item}: any) {
+type MenuItemCardProps = {
+  item: MenuItemType
+}
+
+export default function MenuItemCard({item}: MenuItemCardProps) {
   return (
     <div className="menuItemCard">
       <div className="itemdetails">

@@ -7,7 +7,7 @@ import StarBorderIcon from "@mui/icons-material/StarBorder";
 export default function Landing() {
   return (
     <div className={landingStyles.container}>
-      <h2 className={landingStyles.slogan}>" Savoring</h2>
+      <h2 className={landingStyles.slogan}>&quot; Savoring</h2>
       <h2 className={landingStyles.slogan}>
         <Typewriter
           words={[

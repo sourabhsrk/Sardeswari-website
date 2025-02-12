@@ -1,6 +1,14 @@
 import Image from "next/image";
 
-export default function TestimonialCard(props: any) {
+type TestimonialCardProps = {
+  testimonial: {
+    userName: string;
+    source: string;
+    userComment: string;
+  }
+}
+
+export default function TestimonialCard(props: TestimonialCardProps) {
   return (
     <div className="tcard">
       <div className="ticon-container"><Image src="/userIcon.png" alt="userIcon" width={90} height={90}/></div>

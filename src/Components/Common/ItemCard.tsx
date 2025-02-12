@@ -5,7 +5,15 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import CardActionArea from '@mui/material/CardActionArea';
 
-export default function ItemCard(props: any) {
+type ItemCardProps = {
+  item: {
+    imgsrc: string;
+    altTxt: string;
+    name: string;
+    description: string;
+  }
+}
+export default function ItemCard(props: ItemCardProps) {
   return (
     <Card sx={{ width: '300px', borderRadius: '8px', height: '370px' }}>
       <CardActionArea>

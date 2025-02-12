@@ -3,8 +3,10 @@ import MenuItemCard from "../Common/MenuItemCard";
 import MenuCms from "../../../public/cms/MenuItems.model.json";
 import { Accordion, AccordionDetails, AccordionSummary, Typography } from "@mui/material";
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import { MenuItemType} from "@/types/commonTypes";
 
 export default function MenuItems() {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const itemCards = (key: string, item: any) => {
     return (
       <Accordion defaultExpanded sx={{backgroundColor: '#F9F9F9'}} key={key}>
@@ -17,7 +19,7 @@ export default function MenuItems() {
         </AccordionSummary>
         <AccordionDetails>
           <div className="itemContainer">
-            {item?.value && Object.entries(item.value)?.map(([key, item]) => {
+            {item?.value && (Object.entries(item.value) as [string, MenuItemType][])?.map(([key, item]: [string, MenuItemType]) => {
               return <MenuItemCard key={key} item={item} />;
             })}
           </div>

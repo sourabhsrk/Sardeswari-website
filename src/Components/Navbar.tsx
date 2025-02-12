@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 
 export default function Navbar() {
+    const pathname = usePathname();
     const [showSideBar,setShowSideBar] = useState(false);
 
     useEffect(() => {
@@ -27,7 +28,6 @@ export default function Navbar() {
 
     const IconStyle = {fontSize: '40px', color: '#FFFFFF', p: '30px'};
     const isBtnActive = (path: string): boolean => {
-      const pathname = usePathname();
       return pathname === path;
     }
   return (

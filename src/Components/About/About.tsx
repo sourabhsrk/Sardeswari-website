@@ -8,8 +8,8 @@ export default function About() {
           Who we are
         </h1>
         <p>
-          Sardeswari Restaurant was started in the year 1983 by Ranakoti Family. Named after owner's grandmother 'Sarda Devi', who is very fond of Mr.Virender Dutt Ranakoti (owner). 
-          Our ancestors and Indian Culture believe's in hospitality, following which we have started this business.
+          Sardeswari Restaurant was started in the year 1983 by Ranakoti Family. Named after owner&apos;s grandmother &apos;Sarda Devi&apos;, who is very fond of Mr.Virender Dutt Ranakoti (owner). 
+          Our ancestors and Indian Culture believe&apos;s in hospitality, following which we have started this business.
         </p>
         <p>
         Welcome to our pure vegetarian restaurant, where we celebrate the vibrant flavors of India with a touch of global flair. From the rich and hearty dishes of Punjab to the 
