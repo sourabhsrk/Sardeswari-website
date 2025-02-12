@@ -14,3 +14,12 @@ export type MenuItemKeys =
 | "Thalis"
 | "Paneer-Items"
 | "Vegetables";
+
+export type MenuItemType = {
+    imgsrc: string;
+    altTxt: string;
+    name: string;
+    description: string;
+    quantity: string;
+    price: string;
+}
