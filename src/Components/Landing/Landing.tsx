@@ -35,7 +35,7 @@ export default function Landing() {
           })}
         </span>
         <span>
-          4.0 reviews 
+          4.2 reviews 
           <a href="https://g.co/kgs/v9UhLeQ" target="_blank" className={landingStyles.googleReviewLink}>on google</a>
         </span>
       </p>

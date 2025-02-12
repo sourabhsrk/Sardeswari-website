@@ -1,0 +1,32 @@
+{
+    "review1": {
+        "userName": "Sumit Panddey",
+        "userComment": "Sardeshwari restaurant at Badrinath dham in uttarakhand is undisputedly the best place to have a good meal. They have a good seating capacity with an extensive menu to choose from. I loved the hospitality and taste of their food.The prices are also within normal budget.",
+        "source": "Google review"
+    },
+    "review2": {
+        "userName": "Sanju_222323",
+        "userComment": "After Darshan and visiting Mana Gaon (the First village in India), we stopped here for Lunch. It was not in the main market, again the driver had some connection so he took us there for the food. Busy restaurant, quick service, nice food -that's all I can say.",
+        "source": "TripAdvisor review"
+    },
+    "review3": {
+        "userName": "Karan Arjun",
+        "userComment": "Sardeswari restaurant in Badrinath Ho is a delightful dining experience. The food served here is of good quantity and reasonably priced. The quick service by trained staff adds to the overall charm. The presentation is top-notch and the restaurant is child-friendly. A must-visit for a satisfying meal!",
+        "source": "JustDial review"
+    },
+    "review4": {
+        "userName": "Hasini",
+        "userComment": "29 sep 24 ko hum family ke sath ye hotel main khana khane ke le gaye the...bahot badhiya test tha...rate bhi thik hai...pine ke garam pani diya...dusare din ka nashta bhi bahot accha laga...thank u so much team sardeshwari...aapko milke accha laga...",
+        "source": "Google review"
+    },
+    "review5": {
+        "userName": "Aritra Mukherjee",
+        "userComment": "Very tasty and good restaurant in Badrinath. Every dishes are tasty and healthy. Its clean and hygienic. Try Makki ki roti and sarso da sag here, just mouth watering. One can get bengali dishes in lunch and dinner. Alu ppsto available here.",
+        "source": "Google review"
+    },
+    "review6": {
+        "userName": "Meet Jethwa",
+        "userComment": "The food is yummy especially the parathas kadhi and kichdi. Food: 5/5 Service: 5/5 Atmosphere: 5/5",
+        "source": "Google review"
+    }
+}

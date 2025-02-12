@@ -1,9 +1,13 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Navbar from "@/Components/Navbar";
 
 export const metadata: Metadata = {
   title: "Sardeswari Restaurant",
   description: "We are serving the best food in Badrinath.",
+  icons: {
+    icon: "/favicon.png",
+  }
 };
 
 export default function RootLayout({
@@ -19,6 +23,7 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+DE+Grund:wght@100..400&display=swap" rel="stylesheet"/>
       </head>
       <body className="open-sans-font">
+        <Navbar />
         {children}
       </body>
     </html>

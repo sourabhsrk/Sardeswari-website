@@ -1,6 +1,10 @@
 import Landing from "@/Components/Landing/Landing";
-import Navbar from "@/Components/Navbar";
+import Owner from "@/Components/Owner/Owner";
 import PopularItems from "@/Components/PopularItems/PopularItems";
+import Services from "@/Components/Services/Services";
+import SocialMedia from "@/Components/SocialMedia/SocialMedia";
+import Testimonials from "@/Components/Testimonials/Testimonials";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -16,16 +20,32 @@ export default function Home() {
         Your browser does not support the video tag.
       </video>
       <div className="overlay"></div>
-      <div className="content">
-        <Navbar />
+      <main className="content">
         <section id='hero'>
           <Landing />
         </section>
         <section id='popularItems'>
           <PopularItems />
         </section>
-      </div>
-      </div>
+        <section id='owner'>
+          <Owner/>
+        </section>
+        <section id='services'>
+          <Services/>
+        </section>
+        <section>
+          <div style={{ position: "relative", width: "100%", height: "60vh" }}>
+            <Image src="/contactbg.jpg" alt="foodimage" fill/>
+          </div>
+        </section>
+        <section id='testimonials'>
+          <Testimonials/>
+        </section>
+        <section id='socialMedia'>
+          <SocialMedia/>
+        </section>
+      </main>
+    </div>
   
   );
 }

@@ -1,0 +1,16 @@
+export type MenuItemKeys =
+| "PopItems"
+| "Sweets"
+| "Tawa"
+| "Tandoor"
+| "Snacks"
+| "Soups"
+| "Cold-Drinks"
+| "Hot-Drinks"
+| "Rice"
+| "Salad"
+| "Chinese"
+| "South-Indian"
+| "Thalis"
+| "Paneer-Items"
+| "Vegetables";

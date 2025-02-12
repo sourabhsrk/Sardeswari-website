@@ -1,0 +1,56 @@
+.tsection {
+    padding: 10px;
+    background-color: #F9F9F9;
+    padding-bottom: 60px;
+}
+.tcontainer {
+    margin: 0 30px;
+}
+.theading {
+    text-align: center;
+    color: #BD3336;
+    font-Size: 38px;
+}
+.tcard {
+    padding-top: 45px;
+    position: relative;
+    width: 350px;
+}
+.ticon-container {
+    position: absolute;
+    top: 0;
+    left: calc((100% - 90px) / 2);
+}
+.tuser-review {
+    background: #ebeaea;
+    padding: 20px;
+    border-radius: 0.5rem;
+    min-height: 420px;
+    box-shadow: 5px 10px 18px #b79e9e;
+}
+.tuser-detailbox {
+    padding-top: 15px;
+}
+.tuser-name {
+    margin-bottom: 2px;
+    line-height: 1.6;
+    font-size: 20px;
+    text-align: center;
+}
+.review-source {
+    margin-top: 2px;
+    line-height: 1.6;
+    text-align: center;
+    font-size: 16px;
+}
+.tquotes-icon {
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+}
+
+@media(max-width: 400px){
+    .tcontainer {
+        margin: 0;
+    }
+}

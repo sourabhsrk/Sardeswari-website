@@ -1,8 +1,8 @@
 .container {
     color: white;
-    margin-Left: 14vw;
-    margin-top: 10vh;
-    height: 546px;
+    padding-Left: 14vw;
+    padding-top: 25vh;
+    height: 75vh;
 }
 
 .slogan {
@@ -102,7 +102,7 @@
 
 @media (max-width : 845px) {
     .container {
-        margin-Left: 8vw;
+        padding-Left: 8vw;
     }
 
     .slogan {
@@ -124,7 +124,7 @@
 
 @media (max-width : 480px) {
     .container {
-        margin-Left: 4vw;
+        padding-Left: 4vw;
     }
 
     .slogan {
