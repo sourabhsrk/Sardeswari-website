@@ -1,0 +1,1194 @@
+{
+    "PopItems": {
+        "heading": "Restaurant Special",
+        "value": {
+            "Paneer-Butter-Masala": {
+                "name": "Paneer Butter Masala",
+                "imgsrc": "/FoodImages/paneer-butter-masala2.jpg",
+                "altTxt": "paneer image",
+                "description": "This dish is a rich and creamy North Indian curry made with soft cubes of paneer simmered in a tomato-based gravy, infused with aromatic spices, butter, and cream.",
+                "price": "350.00"
+            },
+            "Garlic-Naan": {
+                "name": "Garlic Naan",
+                "imgsrc": "/FoodImages/garlic-naan.jpg",
+                "altTxt": "bread image",
+                "description": "Garlic Naan is a soft and fluffy Indian flatbread infused with the irresistible aroma of freshly minced garlic and brushed with melted butter.",
+                "price": "100.00"
+            },
+            "Chole-Bhature": {
+                "name": "Chole Bhature",
+                "imgsrc": "/FoodImages/Chole-Bhature.jpg",
+                "altTxt": "chole Bhature image",
+                "description": "Chole Bhature is a classic North Indian dish featuring spicy, tangy chickpea curry (chole) served with deep-fried, fluffy bread (bhature).",
+                "price": "140.00",
+                "quantity": "2"
+            },
+            "Dal-Makhni": {
+                "name": "Dal Makhni",
+                "imgsrc": "/FoodImages/Dal-Makhni.jpg",
+                "altTxt": "dal makhni image",
+                "description": "Dal Makhni is a creamy and flavorful Punjabi dish made with black lentils and kidney beans, slow-cooked with butter, cream, and a blend of spices.",
+                "price": "250.00"
+            },
+            "Kadai-Paneer": {
+                "name": "Kadai Paneer",
+                "imgsrc": "/FoodImages/kadai-paneer2.jpg",
+                "altTxt": "paneer image",
+                "description": "Kadai Paneer is a vibrant and aromatic dish made with soft paneer cubes cooked in a spiced tomato and bell pepper gravy, infused with the bold flavors of freshly ground spices.",
+                "price": "350.00"
+            },
+            "Masala-Dosa": {
+                "name": "Masala-Dosa",
+                "imgsrc": "/FoodImages/masala-dosa1.jpg",
+                "altTxt": "dosa image",
+                "description": "Masala Dosa is a crispy, golden South Indian crepe made from fermented rice and lentil batter, filled with a spiced potato mixture. Served with coconut chutney and sambar!",
+                "price": "150.00"
+            },
+            "Mutter-Mushroom": {
+                "name": "Mutter Mushroom",
+                "imgsrc": "/FoodImages/matar-mushroom.jpg",
+                "altTxt": "mushroom curry image",
+                "description": "Mutter Mushroom is a delightful North Indian curry made with tender mushrooms and green peas cooked in a spiced onion-tomato gravy.",
+                "price": "300.00"
+            },
+            "Sarsoo-ka-Saag": {
+                "name": "Sarsoo Ka Saag",
+                "imgsrc": "/FoodImages/sarsoo-ka-saag.jpg",
+                "altTxt": "sarsoo ka saag image",
+                "description": "This Dish is a traditional Punjabi delicacy featuring a hearty mustard greens curry, slow-cooked with spices, and served with golden maize flour flatbreads.",
+                "price": "250.00/40.00"
+            }
+        }
+    },
+    "Soups": {
+        "heading": "Soups",
+        "value": {
+            "Tomato-Soup": {
+                "name": "Tomato Soup",
+                "imgsrc": "/FoodImages/tomato-soup.jpg",
+                "altTxt": "soup image",
+                "description": "Tomato soup is a comforting and flavorful dish made from ripe tomatoes, blended with spices and herbs.",
+                "price": "135.00"
+            },
+            "Veg-Soup": {
+                "name": "Veg. Soup",
+                "imgsrc": "/FoodImages/veg-soup.jpg",
+                "altTxt": "soup image",
+                "description": "Vegetable soup is a hearty and nutritious dish made with a mix of fresh vegetables, herbs, and spices simmered in a flavorful broth.",
+                "price": "135.00"
+            },
+            "Sweet-Corn-Soup": {
+                "name": "Sweet Corn Soup",
+                "imgsrc": "/FoodImages/corn-soup.jpg",
+                "altTxt": "soup image",
+                "description": "Sweet corn soup is a creamy and mildly sweet soup made with sweet corn kernels, vegetables, and a light seasoning.",
+                "price": "140.00"
+            },
+            "Sweet-Corn-Veg-Soup": {
+                "name": "Sweet Corn Veg Soup",
+                "imgsrc": "/FoodImages/corn-veg-soup.jpeg",
+                "altTxt": "soup image",
+                "description": "Sweet corn veg soup is a flavorful soup made with sweet corn, mixed vegetables, and light seasonings. It’s a warm and comforting appetizer, often garnished with herbs or pepper.",
+                "price": "150.00"
+            },
+            "Manchow-Soup": {
+                "name": "Manchow Soup",
+                "imgsrc": "/FoodImages/manchow.jpeg",
+                "altTxt": "soup image",
+                "description": "Manchow soup is a spicy and tangy Indo-Chinese soup made with mixed vegetables, soy sauce, and garlic, topped with crispy fried noodles.",
+                "price": "150.00"
+            },
+            "Hot-Sour-Soup": {
+                "name": "Hot & Sour Soup",
+                "imgsrc": "/FoodImages/hot-sour-soup.jpeg",
+                "altTxt": "soup image",
+                "description": "Hot and sour soup is a zesty Indo-Chinese soup made with vegetables, soy sauce, vinegar, and spices, balancing spicy and tangy flavors.",
+                "price": "150.00"
+            },
+            "Mushroom-Soup": {
+                "name": "Mushroom Soup",
+                "imgsrc": "/FoodImages/mushroom-soup1.jpg",
+                "altTxt": "soup image",
+                "description": "Mushroom soup is a creamy and flavorful dish made with fresh mushrooms, onions, garlic, and cream, simmered to perfection.",
+                "price": "160.00"
+            }
+        }
+    },
+    "Snacks": {
+        "heading": "Snacks",
+        "value": {
+            "Poori": {
+                "name": "Poori",
+                "imgsrc": "/FoodImages/aloo-poori.jpeg",
+                "altTxt": "poori image",
+                "description": "Aloo poori is a popular North Indian dish consisting of deep-fried, puffed wheat bread (poori) served with a spiced potato curry (aloo).",
+                "price": "140.00",
+                "quantity": "4"
+            },
+            "Chole-Bhature": {
+                "name": "Chole Bhature",
+                "imgsrc": "/FoodImages/Chole-Bhature.jpg",
+                "altTxt": "Chole Bhature image",
+                "description": "Chole Bhature is a classic North Indian dish featuring spicy, tangy chickpea curry (chole) served with deep-fried, fluffy bread (bhature).",
+                "price": "140.00",
+                "quantity": "2"
+            },
+            "Veg-Cutlet": {
+                "name": "Veg Cutlet",
+                "imgsrc": "/FoodImages/cutlet.jpeg",
+                "altTxt": "cutlet image",
+                "description": "Veg cutlet is a crispy, fried patty made from mashed vegetables like potatoes, carrots, peas, and beans, mixed with spices.",
+                "price": "225.00",
+                "quantity": "2"
+            },
+            "Paneer-Cutlet": {
+                "name": "Paneer Cutlet",
+                "imgsrc": "/FoodImages/cutlet.jpeg",
+                "altTxt": "cutlet image",
+                "description": "Paneer cutlet is a crispy, fried patty made from grated paneer (cottage cheese) mixed with vegetables, breadcrumbs, and spices.",
+                "price": "300.00",
+                "quantity": "2"
+            },
+            "Finger-Chips": {
+                "name": "Finger Chips",
+                "imgsrc": "/FoodImages/finger-chips.jpeg",
+                "altTxt": "finger chips image",
+                "description": "Finger chips are crispy, thin slices of potatoes, deep-fried to a golden brown. They are a popular snack or side dish, often served with ketchup or a dipping sauce.",
+                "price": "200.00"
+            },
+            "Butter-Toast": {
+                "name": "Butter Toast",
+                "imgsrc": "/FoodImages/butter-toast.jpg",
+                "altTxt": "toast image",
+                "description": "Butter toast is a simple dish made by spreading butter on toasted bread, often served as a snack or breakfast. It’s crunchy and flavorful.",
+                "price": "120.00",
+                "quantity": "4"
+            },
+            "Jam-Toast": {
+                "name": "Jam Toast",
+                "imgsrc": "/FoodImages/jam-toast.jpg",
+                "altTxt": "toast image",
+                "description": "Jam toast is a slice of toasted bread spread with fruit jam or preserves. It’s a sweet, simple snack or breakfast option.",
+                "price": "150.00",
+                "quantity": "4"
+            },
+            "Jam-Butter-Toast": {
+                "name": "Jam Butter Toast",
+                "imgsrc": "/FoodImages/butter-jam-toast.jpg",
+                "altTxt": "toast image",
+                "description": "Jam butter toast is a slice of toasted bread spread with a layer of butter and topped with fruit jam. It’s a sweet and rich breakfast or snack.",
+                "price": "170.00",
+                "quantity": "4"
+            },
+            "Veg-Sandwich": {
+                "name": "Veg. Sandwich",
+                "imgsrc": "/FoodImages/veg-sand.jpg",
+                "altTxt": "sandwich image",
+                "description": "Sandwich made with a variety of fresh, chopped vegetables like cucumber, tomatoes, lettuce, and carrots, often spread with butter or chutney.",
+                "price": "120.00",
+                "quantity": "4"
+            },
+            "Veg-Grilled-Sandwich": {
+                "name": "Veg. Grilled Sandwich",
+                "imgsrc": "/FoodImages/grilled-veg-sand.jpg",
+                "altTxt": "sandwich image",
+                "description": "Veg grilled sandwich is a sandwich filled with spiced vegetables like potatoes, cheese, and greens, then grilled to a crispy, golden texture.",
+                "price": "150.00",
+                "quantity": "4"
+            },
+            "Paneer-Grilled-Sandwich": {
+                "name": "Paneer Grilled Sandwich",
+                "imgsrc": "/FoodImages/grilled-paneer-sand.jpg",
+                "altTxt": "sandwich image",
+                "description": "Paneer grilled sandwich is a sandwich filled with spiced paneer (cottage cheese) and vegetables, grilled to a crispy golden finish.",
+                "price": "180.00",
+                "quantity": "4"
+            }
+        }
+    },
+    "Hot-Drinks": {
+        "heading": "Hot Drinks",
+        "value": {
+            "Tea": {
+                "name": "Tea",
+                "imgsrc": "/FoodImages/tea1.jpeg",
+                "altTxt": "tea image",
+                "description": "Tea is a warm beverage made by brewing tea leaves or tea powder in hot water, often with milk and sugar.",
+                "price": "30.00"
+            },
+            "Masala-Tea": {
+                "name": "Masala Tea",
+                "imgsrc": "/FoodImages/masala-tea1.jpeg",
+                "altTxt": "tea image",
+                "description": "Masala tea is a spiced Indian tea made by brewing black tea with milk, sugar, and aromatic spices like cardamom, ginger, and cloves.",
+                "price": "60.00"
+            },
+            "Lemon-Tea": {
+                "name": "Lemon Tea",
+                "imgsrc": "/FoodImages/lemon-tea.jpeg",
+                "altTxt": "tea image",
+                "description": "Lemon tea is a refreshing beverage made by brewing tea with water and adding fresh lemon juice. It’s light and tangy.",
+                "price": "50.00"
+            },
+            "Ginger-Lemon-Tea": {
+                "name": "Ginger Lemon Tea",
+                "imgsrc": "/FoodImages/ginger-lemon-tea.jpeg",
+                "altTxt": "tea image",
+                "description": "Ginger lemon tea is a soothing beverage made by brewing tea with fresh ginger and adding lemon juice. It’s warm and tangy.",
+                "price": "60.00"
+            },
+            "Green-Tea": {
+                "name": "Green Tea",
+                "imgsrc": "/FoodImages/green-tea.jpeg",
+                "altTxt": "tea image",
+                "description": "Green tea is a light and healthy beverage made by steeping unoxidized tea leaves in hot water. Known for its delicate flavor, it’s rich in antioxidants.",
+                "price": "50.00"
+            },
+            "Green-Lemon-Tea": {
+                "name": "Green Lemon Tea",
+                "imgsrc": "/FoodImages/green-lemon-tea.jpeg",
+                "altTxt": "tea image",
+                "description": "Green lemon tea is a refreshing blend of green tea and fresh lemon juice, offering a light, tangy flavor. It’s a healthy drink rich in antioxidants and vitamin C.",
+                "price": "60.00"
+            },
+            "Honey-Ginger-Lemon-Tea": {
+                "name": "Honey Ginger Lemon Tea",
+                "imgsrc": "/FoodImages/ginger-honey-lemon-tea.jpg",
+                "altTxt": "tea image",
+                "description": "Honey ginger lemon tea is a soothing drink made by combining fresh ginger, lemon juice, and honey in warm water or tea.",
+                "price": "100.00"
+            },
+            "Coffee": {
+                "name": "Coffee",
+                "imgsrc": "/FoodImages/coffee1.jpeg",
+                "altTxt": "coffee image",
+                "description": "Coffee is a brewed beverage made from roasted coffee beans, offering a rich, bold flavor and an energizing boost.",
+                "price": "70.00"
+            },
+            "Black-Coffee": {
+                "name": "Black Coffee",
+                "imgsrc": "/FoodImages/black-coffee.jpeg",
+                "altTxt": "coffee image",
+                "description": "Black coffee is a simple, bold beverage made by brewing coffee beans without adding milk or sugar. It’s loved for its rich aroma, strong flavor, and energizing qualities.",
+                "price": "50.00"
+            },
+            "Bournvita": {
+                "name": "Bournvita",
+                "imgsrc": "/FoodImages/bournvita.jpeg",
+                "altTxt": "bournvita image",
+                "description": "Bournvita is a chocolate-flavored health drink mix made with malted barley, wheat, and cocoa. It’s typically mixed with milk, offering a tasty and nutritious beverage for all ages.",
+                "price": "100.00"
+            },
+            "Drinking-Chocolate": {
+                "name": "Drinking Chocolate",
+                "imgsrc": "/FoodImages/hot-chocolate.jpeg",
+                "altTxt": "drinking chocolate image",
+                "description": "Drinking chocolate is a rich, creamy beverage made by dissolving cocoa powder or melted chocolate in hot milk or water.",
+                "price": "100.00"
+            },
+            "CornFlakes": {
+                "name": "CornFlakes with milk",
+                "imgsrc": "/FoodImages/cornflakes1.jpg",
+                "altTxt": "cornflakes image",
+                "description": "Cornflakes with milk is a simple and crunchy breakfast made by pouring milk over cornflakes. It’s a quick, light meal, often enjoyed with added sugar, honey, or fruits for extra flavor.",
+                "price": "125.00"
+            }
+        }
+    },
+    "Cold-Drinks": {
+        "heading": "Cold Drinks",
+        "value": {
+            "Cold-Drinks": {
+                "name": "Cold Drinks",
+                "imgsrc": "/FoodImages/cold-drink.jpeg",
+                "altTxt": "drink image",
+                "description": "We served varieties of brand cold drinks like maaza, limca, coca-cola, sprite, thums up, mirinda etc",
+                "price": "60.00"
+            },
+            "Drinking-Water": {
+                "name": "Drinking Water",
+                "imgsrc": "/FoodImages/kinley.jpeg",
+                "altTxt": "drink image",
+                "description": "We have fresh water of most trusted brand in India: Kinley. 1L bottle available.",
+                "price": "30.00"
+            },
+            "Lassi": {
+                "name": "Lassi",
+                "imgsrc": "/FoodImages/lassi1.jpeg",
+                "altTxt": "drink image",
+                "description": "Lassi is a traditional Indian drink made with yogurt, water, and sugar or spices, served chilled. It can be sweet or salty, offering a refreshing and creamy treat.",
+                "price": "70.00"
+            },
+            "Fresh-Lime-Soda": {
+                "name": "Fresh Lime Soda",
+                "imgsrc": "/FoodImages/lime-soda.jpeg",
+                "altTxt": "drink image",
+                "description": "Fresh lime soda is a refreshing beverage made with lime juice, soda water, sugar, and a pinch of salt.",
+                "price": "60.00"
+            },
+            "Fresh-Lime-Water": {
+                "name": "Fresh Lime Water",
+                "imgsrc": "/FoodImages/lime-water.jpeg",
+                "altTxt": "drink image",
+                "description": "Fresh lime water is a simple and refreshing drink made with lime juice, water, sugar, and a pinch of salt.",
+                "price": "40.00"
+            }
+        }
+    },
+    "Paneer-Items": {
+        "heading": "Paneer Items",
+        "value": {
+            "Mutter-Paneer": {
+                "name": "Mutter Paneer",
+                "imgsrc": "/FoodImages/mutter-paneer.jpeg",
+                "altTxt": "paneer image",
+                "description": "Mutter-paneer is a classic North Indian curry made with soft paneer cubes and green peas simmered in a flavorful tomato-based gravy.",
+                "price": "275.00"
+            },
+            "Chana-Paneer": {
+                "name": "Chana Paneer",
+                "imgsrc": "/FoodImages/chana-paneer.jpeg",
+                "altTxt": "paneer image",
+                "description": "Chana paneer is a flavorful North Indian dish made with chickpeas (chana) and paneer cubes cooked in a spiced tomato-onion gravy.",
+                "price": "275.00"
+            },
+            "Shahi-Paneer": {
+                "name": "Shahi Paneer",
+                "imgsrc": "/FoodImages/shahi-paneer.jpeg",
+                "altTxt": "paneer image",
+                "description": "Shahi paneer is a rich and creamy North Indian curry made with paneer cubes cooked in a luscious gravy of tomatoes, cream, and cashews. It’s a royal delicacy, best served with naan or pulao.",
+                "price": "300.00"
+            },
+            "Cheese-Tomato": {
+                "name": "Cheese Tomato",
+                "imgsrc": "/FoodImages/cheese-tomato.jpeg",
+                "altTxt": "paneer image",
+                "description": "Cheese tomato is a rich and creamy dish made with ripe tomatoes cooked in a spiced gravy, topped with melted cheese.",
+                "price": "300.00"
+            },
+            "Mushroom-Paneer": {
+                "name": "Mushroom Paneer",
+                "imgsrc": "/FoodImages/mushroom-paneer.jpg",
+                "altTxt": "paneer image",
+                "description": "Cheese tomato is a rich and creamy dish made with ripe tomatoes cooked in a spiced gravy, topped with melted cheese.",
+                "price": "350.00"
+            },
+            "Khoya-Paneer": {
+                "name": "Khoya Paneer",
+                "imgsrc": "/FoodImages/khoya-paneer.jpeg",
+                "altTxt": "paneer image",
+                "description": "Khoya paneer is a rich and creamy North Indian dish made with paneer cubes cooked in a gravy of khoya (reduced milk), tomatoes, and spices.",
+                "price": "350.00"
+            },
+            "Paneer-Dopyaza": {
+                "name": "Paneer Dopyaza",
+                "imgsrc": "/FoodImages/paneer-dopyaza.jpeg",
+                "altTxt": "paneer image",
+                "description": "Paneer do pyaza is a flavorful North Indian curry made with paneer cubes and a generous amount of onions cooked in a spiced tomato-based gravy.",
+                "price": "350.00"
+            },
+            "Paneer-Pasanda": {
+                "name": "Paneer Pasanda",
+                "imgsrc": "/FoodImages/paneer-pasanda.jpeg",
+                "altTxt": "paneer image",
+                "description": "Paneer pasanda is a rich and indulgent North Indian curry made with stuffed paneer slices cooked in a creamy, nutty gravy of tomatoes, yogurt, and spices.",
+                "price": "350.00"
+            },
+            "Palak-Paneer": {
+                "name": "Palak Paneer",
+                "imgsrc": "/FoodImages/palak-paneer.jpeg",
+                "altTxt": "paneer image",
+                "description": "Palak paneer is a classic North Indian dish made with paneer cubes simmered in a smooth, spiced spinach (palak) gravy.",
+                "price": "350.00"
+            },
+            "Navratan-Korma": {
+                "name": "Navratan Korma",
+                "imgsrc": "/FoodImages/korma.jpeg",
+                "altTxt": "paneer image",
+                "description": "Navratan Korma is a rich and creamy North Indian curry made with a medley of nine vegetables, paneer, and nuts cooked in a mildly spiced yogurt or cream-based gravy.",
+                "price": "350.00"
+            },
+            "Kadai-Paneer": {
+                "name": "Kadai Paneer",
+                "imgsrc": "/FoodImages/kadai-paneer2.jpg",
+                "altTxt": "paneer image",
+                "description": "Kadai Paneer is a vibrant and aromatic dish made with soft paneer cubes cooked in a spiced tomato and bell pepper gravy, infused with the bold flavors of freshly ground spices.",
+                "price": "350.00"
+            },
+            "Paneer-Bhurji": {
+                "name": "Paneer Bhurji",
+                "imgsrc": "/FoodImages/paneer-bhurji.jpeg",
+                "altTxt": "paneer image",
+                "description": "Paneer bhurji is a quick and flavorful dish made with crumbled paneer, sautéed with onions, tomatoes, and spices. It’s a savory, scrambled-style dish, often served with roti, paratha, or bread.",
+                "price": "350.00"
+            },
+            "Paneer-Butter-Masala": {
+                "name": "Paneer Butter Masala",
+                "imgsrc": "/FoodImages/paneer-butter-masala2.jpg",
+                "altTxt": "paneer image",
+                "description": "This dish is a rich and creamy North Indian curry made with soft cubes of paneer simmered in a tomato-based gravy, infused with aromatic spices, butter, and cream.",
+                "price": "350.00"
+            },
+            "Kaju-Paneer": {
+                "name": "Kaju Paneer",
+                "imgsrc": "/FoodImages/kaju-paneer.jpeg",
+                "altTxt": "paneer image",
+                "description": "Kaju paneer is a rich and creamy curry made with soft paneer cubes and cashews (kaju) cooked in a flavorful, spiced gravy.",
+                "price": "400.00"
+            }
+        }
+    },
+    "Vegetables": {
+        "heading": "Vegetables",
+        "value": {
+            "Plain-Dal": {
+                "name": "Plain Dal",
+                "imgsrc": "/FoodImages/plain-dal.jpeg",
+                "altTxt": "dal image",
+                "description": "Plain yellow dal is a simple and comforting dish made by simmering lentils like moong or toor dal with turmeric, salt, and a mild tempering of ghee.",
+                "price": "135.00"
+            },
+            "Jeera-Dal-Fry": {
+                "name": "Jeera Dal Fry",
+                "imgsrc": "/FoodImages/jeera-dal-fry.jpeg",
+                "altTxt": "dal image",
+                "description": "Jeera dal fry is a flavorful lentil dish made by tempering cooked dal with cumin seeds (jeera) sautéed in ghee.",
+                "price": "175.00"
+            },
+            "Dal-Butter": {
+                "name": "Dal Butter",
+                "imgsrc": "/FoodImages/dal-butter-fry.jpeg",
+                "altTxt": "dal image",
+                "description": "Dal Butter is a flavorful lentil dish made by tempering cooked dal with cumin seeds (jeera), garlic, onions, and tomatoes sautéed in butter.",
+                "price": "250.00"
+            },
+            "Dal-Tadka": {
+                "name": "Dal Tadka",
+                "imgsrc": "/FoodImages/dal-tadka.jpeg",
+                "altTxt": "dal image",
+                "description": "Dal Tadka is a flavorful lentil dish made by tempering cooked dal with cumin seeds (jeera), garlic, onions, and tomatoes sautéed in ghee.",
+                "price": "250.00"
+            },
+            "Dal-Makhni": {
+                "name": "Dal Makhni",
+                "imgsrc": "/FoodImages/Dal-Makhni.jpg",
+                "altTxt": "dal image",
+                "description": "Dal Makhni is a creamy and flavorful Punjabi dish made with black lentils and kidney beans, slow-cooked with butter, cream, and a blend of spices.",
+                "price": "250.00"
+            },
+            "Rajma": {
+                "name": "Rajma",
+                "imgsrc": "/FoodImages/rajma.jpeg",
+                "altTxt": "dal image",
+                "description": "Rajma is a comforting North Indian curry made with red kidney beans simmered in a spiced tomato-onion gravy. It’s a hearty dish, best enjoyed with steamed rice.",
+                "price": "250.00"
+            },
+            "Jeera-Aloo": {
+                "name": "Jeera Aloo",
+                "imgsrc": "/FoodImages/jeera-aloo.jpeg",
+                "altTxt": "aloo image",
+                "description": "Jeera aloo is a simple and flavorful dish made with boiled potatoes sautéed in ghee or oil, tempered with cumin seeds (jeera) and spices.",
+                "price": "200.00"
+            },
+            "Aloo-Gobhi": {
+                "name": "Aloo Gobhi",
+                "imgsrc": "/FoodImages/aloo-gobhi.jpeg",
+                "altTxt": "aloo image",
+                "description": "Aloo gobhi is a classic Indian dish made with potatoes (aloo) and cauliflower (gobhi) cooked with onions, tomatoes, and aromatic spices.",
+                "price": "225.00"
+            },
+            "Aloo-Mutter": {
+                "name": "Aloo Mutter",
+                "imgsrc": "/FoodImages/aloo-mutter.jpeg",
+                "altTxt": "aloo image",
+                "description": "Aloo mutter is a hearty North Indian curry made with potatoes (aloo) and green peas (mutter) cooked in a spiced tomato-onion gravy.",
+                "price": "225.00"
+            },
+            "Aloo-Chole": {
+                "name": "Aloo Chole",
+                "imgsrc": "/FoodImages/aloo-chole.jpeg",
+                "altTxt": "aloo image",
+                "description": "Aloo chole is a flavorful North Indian curry made with chickpeas (chole) and potatoes (aloo) simmered in a spiced tomato-onion gravy.",
+                "price": "225.00"
+            },
+            "Baigan-Bharta": {
+                "name": "Baigan Bharta",
+                "imgsrc": "/FoodImages/baigan-bharta.jpeg",
+                "altTxt": "baigan image",
+                "description": "Baigan bharta is a smoky and flavorful Indian dish made with roasted eggplant mashed and cooked with onions, tomatoes, garlic, and spices. It’s a rustic curry, best enjoyed with roti or paratha.",
+                "price": "250.00"
+            },
+            "Chana-Masala": {
+                "name": "Chana Masala",
+                "imgsrc": "/FoodImages/chana-masala.jpeg",
+                "altTxt": "chana image",
+                "description": "Chana masala is a spicy and tangy North Indian curry made with chickpeas cooked in a flavorful tomato-onion gravy with aromatic spices.",
+                "price": "225.00"
+            },
+            "Mix-Veg": {
+                "name": "Mix Veg.",
+                "imgsrc": "/FoodImages/mix-veg.jpeg",
+                "altTxt": "mix veg image",
+                "description": "Mix Veg. is dry sabji with all the available seasonal vegies like gobhi, beans, potato, carrot, peas, capcicum etc.",
+                "price": "275.00"
+            },
+            "Dum-Aloo": {
+                "name": "Dum Aloo",
+                "imgsrc": "/FoodImages/dum-aloo.jpeg",
+                "altTxt": "aloo image",
+                "description": "Dum aloo is a rich and flavorful North Indian dish made with baby potatoes cooked in a spiced, creamy gravy, often prepared using the slow-cooking method (dum).",
+                "price": "275.00"
+            },
+            "Malai-Kofta": {
+                "name": "Malai Kofta",
+                "imgsrc": "/FoodImages/malai-kofta.jpeg",
+                "altTxt": "kofta image",
+                "description": "Malai kofta is a rich and creamy North Indian curry made with deep-fried dumplings of paneer and potatoes (koftas) simmered in a smooth tomato-based gravy.",
+                "price": "300.00"
+            },
+            "Veg-Kofta": {
+                "name": "Veg Kofta",
+                "imgsrc": "/FoodImages/veg-kofta.jpeg",
+                "altTxt": "kofta image",
+                "description": "Veg kofta is a savory dish made with deep-fried vegetable dumplings, typically made from mashed vegetables like carrots, peas, and potatoes, cooked in a spiced gravy.",
+                "price": "275.00"
+            },
+            "Stuff-Tomato": {
+                "name": "Stuff Tomato",
+                "imgsrc": "/FoodImages/stuffed-tomato.jpeg",
+                "altTxt": "stuff tomato image",
+                "description": "Stuffed tomato is a flavorful dish where tomatoes are hollowed out and filled with a spiced mixture of mashed vegetables, rice, or paneer, then baked or cooked in a gravy.",
+                "price": "275.00"
+            },
+            "Mutter-Mushroom": {
+                "name": "Mutter Mushroom",
+                "imgsrc": "/FoodImages/matar-mushroom.jpg",
+                "altTxt": "mushroom image",
+                "description": "Mutter Mushroom is a delightful North Indian curry made with tender mushrooms and green peas cooked in a spiced onion-tomato gravy.",
+                "price": "300.00"
+            },
+            "Mushroom-Masala": {
+                "name": "Mushroom Masala",
+                "imgsrc": "/FoodImages/mushroom-masala.jpeg",
+                "altTxt": "mushroom image",
+                "description": "Mushroom masala is a flavorful curry made with mushrooms cooked in a spiced tomato gravy, enriched with aromatic Indian spices.",
+                "price": "350.00"
+            },
+            "Mushroom-Kaju": {
+                "name": "Mushroom Kaju",
+                "imgsrc": "/FoodImages/kaju-mushroom.jpeg",
+                "altTxt": "mushroom image",
+                "description": "Mushroom kaju is a rich and creamy curry made with mushrooms and cashews (kaju), cooked in a flavorful tomato-kaju-fusion based gravy with aromatic spices.",
+                "price": "400.00"
+            },
+            "Mushroom-Onion": {
+                "name": "Mushroom Onion",
+                "imgsrc": "/FoodImages/mushroom-onion.jpeg",
+                "altTxt": "mushroom image",
+                "description": "Mushroom onion is a simple and savory dish made with mushrooms cooked with onions and flavored with aromatic spices.",
+                "price": "350.00"
+            },
+            "Kaju-Curry": {
+                "name": "Kaju Curry",
+                "imgsrc": "/FoodImages/kaju-curry.jpeg",
+                "altTxt": "kaju curry image",
+                "description": "Kaju curry is a rich and creamy dish made with cashews (kaju) cooked in a spiced, smooth tomato, kaju and onion gravy.",
+                "price": "400.00"
+            }
+        }
+    },
+    "South-Indian": {
+        "heading": "South Indian",
+        "value": {
+            "Masala-Dosa": {
+                "name": "Masala Dosa",
+                "imgsrc": "/FoodImages/masala-dosa1.jpg",
+                "altTxt": "Dosa image",
+                "description": "Masala Dosa is a crispy, golden South Indian crepe made from fermented rice and lentil batter, filled with a spiced potato mixture. Served with coconut chutney and sambar!",
+                "price": "150.00"
+            },
+            "Plain-Dosa": {
+                "name": "Plain Dosa",
+                "imgsrc": "/FoodImages/plain-dosa1.jpg",
+                "altTxt": "Dosa image",
+                "description": "Plain dosa is a thin, crispy crepe made from fermented rice and urad dal batter. It’s a classic South Indian dish, typically served with sambar and coconut chutney.",
+                "price": "120.00"
+            },
+            "Butter-Masala-Dosa": {
+                "name": "Butter Masala Dosa",
+                "imgsrc": "/FoodImages/butter-masala-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Butter masala dosa is a crispy, thin dosa filled with a spiced potato filling, generously topped with butter and served with sambar and chutneys.",
+                "price": "180.00"
+            },
+            "Butter-Plain-Dosa": {
+                "name": "Butter Plain Dosa",
+                "imgsrc": "/FoodImages/butter-plain-dosa2.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Butter plain dosa is a crispy, thin dosa made from fermented rice and urad dal batter, generously topped with butter.",
+                "price": "140.00"
+            },
+            "Paneer-Masala-Dosa": {
+                "name": "Paneer Masala Dosa",
+                "imgsrc": "/FoodImages/paneer-masala-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Paneer masala dosa is a crispy, thin dosa filled with a spiced paneer (cottage cheese) and spiced potato filling, often topped with butter.",
+                "price": "190.00"
+            },
+            "Paneer-Dosa": {
+                "name": "Paneer Dosa",
+                "imgsrc": "/FoodImages/paneer-masala-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Paneer dosa is a crispy, thin dosa filled with a spiced paneer (cottage cheese) filling, often topped with butter.",
+                "price": "250.00"
+            },
+            "Paper-Dosa": {
+                "name": "Paper Dosa",
+                "imgsrc": "/FoodImages/paper-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Paper dosa is a large, thin, and extra-crispy dosa that is delicate and crisp like paper. It’s often served with a variety of chutneys and sambar.",
+                "price": "160.00"
+            },
+            "Paper-Masala-Dosa": {
+                "name": "Paper Masala Dosa",
+                "imgsrc": "/FoodImages/paper-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Paper masala dosa is a large, thin, and crispy dosa filled with a spiced potato mixture, similar to masala dosa, but much crispier.",
+                "price": "190.00"
+            },
+            "Onion-Dosa": {
+                "name": "Onion Dosa",
+                "imgsrc": "/FoodImages/onion-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Onion dosa is a crispy, thin dosa topped with finely chopped onions, which caramelize slightly during cooking, adding sweetness and texture.",
+                "price": "170.00"
+            },
+            "Onion-Masala-Dosa": {
+                "name": "Onion Masala Dosa",
+                "imgsrc": "/FoodImages/onion-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Onion masala dosa is a crispy dosa filled with a spiced potato mixture and topped with caramelized onions.",
+                "price": "160.00"
+            },
+            "Rava-Plain-Dosa": {
+                "name": "Rava Plain Dosa",
+                "imgsrc": "/FoodImages/rava-dosa.jpg",
+                "altTxt": "Dosa image",
+                "description": "Rava plain dosa is a thin, crispy dosa made from semolina (rava) batter instead of the traditional rice and urad dal mix.",
+                "price": "175.00"
+            },
+            "Rava-Masala-Dosa": {
+                "name": "Rava Masala Dosa",
+                "imgsrc": "/FoodImages/rava-dosa.jpg",
+                "altTxt": "Dosa image",
+                "description": "Rava masala dosa is a crispy dosa made from semolina (rava) batter, filled with a spiced potato mixture.",
+                "price": "200.00"
+            },
+            "Mysore-Dosa": {
+                "name": "Mysore Dosa",
+                "imgsrc": "/FoodImages/mysore-dosa.jpg",
+                "altTxt": "Dosa image",
+                "description": "Mysore dosa is a spicy, crispy dosa spread with a layer of red chutney, often made from dry red chilies and garlic, before being rolled or folded.",
+                "price": "180.00"
+            },
+            "Mysore-Masala-Dosa": {
+                "name": "Mysore Masala Dosa",
+                "imgsrc": "/FoodImages/mysore-masala-dosa.jpeg",
+                "altTxt": "Dosa image",
+                "description": "Mysore masala dosa is a variation of the traditional masala dosa, filled with a spiced potato mixture and smeared with a layer of spicy red chutney.",
+                "price": "200.00"
+            },
+            "Onion-Tomato-Uttapam": {
+                "name": "Onion Tomato Uttapam",
+                "imgsrc": "/FoodImages/onion-tomato-uttapam.jpg",
+                "altTxt": "Uttapam image",
+                "description": "Onion tomato uttapam is a thick, soft pancake made from fermented rice and urad dal batter, topped with finely chopped onions and tomatoes.",
+                "price": "160.00"
+            },
+            "Veg-Uttapam": {
+                "name": "Veg Uttapam",
+                "imgsrc": "/FoodImages/veg-uttapam.jpg",
+                "altTxt": "Uttapam image",
+                "description": "Veg uttapam is a thick, savory pancake made from fermented rice and urad dal batter, topped with a variety of vegetables like onions, tomatoes, carrots, and peas.",
+                "price": "175.00"
+            },
+            "Paneer-Uttapam": {
+                "name": "Paneer Uttapam",
+                "imgsrc": "/FoodImages/paneer-uttapam1.jpeg",
+                "altTxt": "Uttapam image",
+                "description": "Paneer uttapam is a thick, savory pancake made from fermented rice and urad dal batter, topped with cubes or crumbled paneer and mild spices.",
+                "price": "250.00"
+            },
+            "Idli": {
+                "name": "Idli",
+                "imgsrc": "/FoodImages/idli.jpeg",
+                "altTxt": "Idli image",
+                "description": "Idli is a soft, steamed cake made from fermented rice and urad dal (black lentils) batter. It’s a popular South Indian breakfast, often served with chutney and sambar.",
+                "price": "100.00",
+                "quantity": "2"
+            },
+            "Upma": {
+                "name": "Upma",
+                "imgsrc": "/FoodImages/upma.jpeg",
+                "altTxt": "Upma image",
+                "description": "Upma is a savory South Indian dish made from semolina (rava) cooked with mustard seeds, curry leaves, vegetables, and spices.",
+                "price": "100.00"
+            }
+        }
+    },
+    "Chinese": {
+        "heading": "Chinese",
+        "value": {
+            "Veg-Chowmein": {
+                "name": "Veg. Chowmein",
+                "imgsrc": "/FoodImages/veg-chowmein.jpeg",
+                "altTxt": "noodle image",
+                "description": "Veg chowmein is a popular Indo-Chinese dish made with stir-fried noodles, mixed vegetables, and flavorful sauces.",
+                "price": "225.00"
+            },
+            "Veg-Hakka-Noodle": {
+                "name": "Veg. Hakka Noodle",
+                "imgsrc": "/FoodImages/veg-hakka-noodle.jpeg",
+                "altTxt": "noodle image",
+                "description": "Veg Hakka noodles are a popular Indo-Chinese dish made with stir-fried noodles, mixed vegetables, and soy-based sauces. It’s a flavorful and mildly spiced dish.",
+                "price": "250.00"
+            },
+            "Veg-Manchurian": {
+                "name": "Veg. Manchurian",
+                "imgsrc": "/FoodImages/veg-manchurian.jpeg",
+                "altTxt": "manchurian image",
+                "description": "Veg Manchurian is an Indo-Chinese dish made with deep-fried vegetable balls tossed in a tangy and spicy soy-based gravy.",
+                "price": "250.00"
+            },
+            "Gobhi-Manchurian": {
+                "name": "Gobhi Manchurian",
+                "imgsrc": "/FoodImages/gobhi-manchurian.jpeg",
+                "altTxt": "manchurian image",
+                "description": "Gobhi Manchurian is a crispy Indo-Chinese dish made with batter-fried cauliflower florets tossed in a tangy, spicy soy-based sauce.",
+                "price": "250.00"
+            },
+            "Veg-Sweet-Sour": {
+                "name": "Veg. Sweet & Sour",
+                "imgsrc": "/FoodImages/veg-sweet-sour.jpeg",
+                "altTxt": "soup image",
+                "description": "This dish is a tangy and flavorful dish made with mixed vegetables cooked in a sauce that balances sweet and sour flavors, using sugar, vinegar, and soy sauce.",
+                "price": "300.00"
+            },
+            "Veg-Choupsuey": {
+                "name": "Veg. Choupsuey",
+                "imgsrc": "/FoodImages/veg-choupsuey1.jpg",
+                "altTxt": "choupsey image",
+                "description": "Veg chop suey is a crispy and saucy Indo-Chinese dish made with fried noodles topped with stir-fried vegetables and a tangy, savory sauce.",
+                "price": "300.00"
+            },
+            "Paneer-Chilli": {
+                "name": "Paneer Chilli",
+                "imgsrc": "/FoodImages/paneer-chilli.jpeg",
+                "altTxt": "paneer chilli image",
+                "description": "Paneer chilli is a popular Indo-Chinese dish made with crispy fried paneer cubes tossed in a spicy and tangy sauce with onions, capsicum, and chilies.",
+                "price": "350.00"
+            },
+            "Mushroom-Chilli": {
+                "name": "Mushroom Chilli",
+                "imgsrc": "/FoodImages/mushroom-chilli.jpeg",
+                "altTxt": "mushroom chilli image",
+                "description": "Mushroom chilli is a spicy Indo-Chinese dish made with crispy fried mushrooms, stir-fried with onions, capsicum, and chilies in a tangy soy-based sauce.",
+                "price": "350.00"
+            },
+            "Veg-Fried-Rice": {
+                "name": "Veg. Fried Rice",
+                "imgsrc": "/FoodImages/veg-fried-rice.jpeg",
+                "altTxt": "rice image",
+                "description": "Veg fried rice is a flavorful dish made by stir-frying cooked rice with mixed vegetables, soy sauce, and spices. It’s a delicious and versatile meal, often served with Manchurian or chili dishes.",
+                "price": "200.00"
+            },
+            "Mushroom-Fried-Rice": {
+                "name": "Mushroom Fried Rice",
+                "imgsrc": "/FoodImages/mushroom-fried-rice.jpeg",
+                "altTxt": "rice image",
+                "description": "Mushroom fried rice is a savory dish made by stir-frying cooked rice with mushrooms, mixed vegetables, soy sauce, and spices.",
+                "price": "250.00"
+            },
+            "Schezwan-Fried-Rice": {
+                "name": "Schezwan Fried Rice",
+                "imgsrc": "/FoodImages/schezwan-fried-rice.jpeg",
+                "altTxt": "rice image",
+                "description": "Schezwan fried rice is a spicy and tangy Indo-Chinese dish made by stir-frying rice with Schezwan sauce, vegetables, and seasonings. It’s bold in flavor.",
+                "price": "275.00"
+            },
+            "Triple-Fried-Rice": {
+                "name": "Triple Fried Rice",
+                "imgsrc": "/FoodImages/triple-fried-rice1.jpeg",
+                "altTxt": "rice image",
+                "description": "This dish is a flavorful Indo-Chinese dish made by stir-frying three types of rice usually plain rice, Schezwan rice, and vegetable rice along with mixed vegetables and sauces.",
+                "price": "300.00"
+            },
+            "Veg-Crispy": {
+                "name": "Veg. Crispy",
+                "imgsrc": "/FoodImages/veg-crispy.jpeg",
+                "altTxt": "veg crispy image",
+                "description": "Veg crispy is a popular Indo-Chinese dish made with battered and deep-fried mixed vegetables like cauliflower, broccoli, and bell peppers, tossed in a spicy and tangy sauce.",
+                "price": "300.00"
+            }
+        }
+    },
+    "Salad": {
+        "heading": "Salad & Raita",
+        "value": {
+            "Curd": {
+                "name": "Curd",
+                "imgsrc": "/FoodImages/curd1.jpeg",
+                "altTxt": "rice image",
+                "description": "Curd is a creamy, tangy dairy product made by fermenting milk with a bacterial culture. It’s a staple in many cuisines, enjoyed plain or as a side dish with meals.",
+                "price": "80.00"
+            },
+            "Veg-Raita": {
+                "name": "Veg Raita",
+                "imgsrc": "/FoodImages/veg-raita1.jpeg",
+                "altTxt": "rice image",
+                "description": "Veg raita is a refreshing side dish made by mixing yogurt with finely chopped vegetables like cucumber, tomatoes, and onions, seasoned with spices.",
+                "price": "120.00"
+            },
+            "Boondi-Raita": {
+                "name": "Boondi Raita",
+                "imgsrc": "/FoodImages/boondi-raita.jpeg",
+                "altTxt": "rice image",
+                "description": "Boondi raita is a yogurt-based side dish made with crispy fried boondi (tiny chickpea flour balls), mixed with yogurt and seasoned with spices.",
+                "price": "120.00"
+            },
+            "Fruit-Raita": {
+                "name": "Fruit Raita",
+                "imgsrc": "/FoodImages/fruit-raita.jpeg",
+                "altTxt": "rice image",
+                "description": "Fruit raita is a refreshing side dish made by combining yogurt with mixed fruits like pineapple, pomegranate, apple, and banana, seasoned with mild spices. It’s a sweet and tangy.",
+                "price": "150.00"
+            },
+            "Onion-Salad": {
+                "name": "Onion Salad",
+                "imgsrc": "/FoodImages/onion-salad.jpeg",
+                "altTxt": "rice image",
+                "description": "Onion salad is a simple dish made with thinly sliced onions, It’s a refreshing and crunchy accompaniment to meals.",
+                "price": "40.00"
+            },
+            "Green-Salad": {
+                "name": "Green Salad",
+                "imgsrc": "/FoodImages/green-salad.jpeg",
+                "altTxt": "rice image",
+                "description": "Green salad is a fresh mix of leafy vegetables like lettuce, beetroot, cucumber, radish and sometimes herbs, topped with a light dressing.",
+                "price": "70.00"
+            },
+            "Papad": {
+                "name": "Papad",
+                "imgsrc": "/FoodImages/papad.jpeg",
+                "altTxt": "rice image",
+                "description": "Papad is a thin, crispy Indian snack made from lentil flour, spices, and sometimes rice flour.",
+                "price": "30.00"
+            },
+            "Masala-Papad": {
+                "name": "Masala Papad",
+                "imgsrc": "/FoodImages/masala-papad.jpeg",
+                "altTxt": "rice image",
+                "description": "Masala papad is a crispy papad topped with a mixture of chopped onions, tomatoes, cucumbers, chilies, and spices. It’s a flavorful and crunchy snack or appetizer.",
+                "price": "60.00"
+            },
+            "Fried-Papad": {
+                "name": "Fried Papad",
+                "imgsrc": "/FoodImages/fried-papad.jpeg",
+                "altTxt": "rice image",
+                "description": "Fried papad is a crispy, deep-fried version of papad, made from lentil or rice flour. It’s a crunchy snack or accompaniment, often served with pickles or yogurt.",
+                "price": "40.00"
+            }
+        }
+    },
+    "Tandoor": {
+        "heading": "Tandoor",
+        "value": {
+            "TRoti": {
+                "name": "Roti",
+                "imgsrc": "/FoodImages/tandoori-roti.jpg",
+                "altTxt": "roti image",
+                "description": "Tandoori roti is a traditional Indian flatbread made from whole wheat flour, cooked in a tandoor (clay oven). It has a slightly smoky flavor.",
+                "price": "25.00",
+                "quantity": "1"
+            },
+            "TButter-Roti": {
+                "name": "Butter Roti",
+                "imgsrc": "/FoodImages/tbutter-roti.jpg",
+                "altTxt": "butter roti image",
+                "description": "Tandoori butter roti is a soft, smoky flatbread cooked in a tandoor and brushed generously with melted butter.",
+                "price": "30.00",
+                "quantity": "1"
+            },
+            "Missi Roti": {
+                "name": "Missi Roti",
+                "imgsrc": "/FoodImages/missi-roti1.jpg",
+                "altTxt": "missi roti image",
+                "description": "Tandoori missi roti is a flavorful flatbread made from gram flour (besan) and whole wheat flour, spiced with herbs and cooked in a tandoor. It has a rustic taste.",
+                "price": "50.00",
+                "quantity": "1"
+            },
+            "TPlain-Parantha": {
+                "name": "Plain Parantha",
+                "imgsrc": "/FoodImages/tplain-paratha.jpg",
+                "altTxt": "parantha image",
+                "description": "Tandoori plain paratha is a flaky, layered flatbread made from whole wheat flour, cooked in a tandoor. It has a smoky flavor",
+                "price": "50.00",
+                "quantity": "1"
+            },
+            "TAloo-Parantha": {
+                "name": "Aloo Parantha",
+                "imgsrc": "/FoodImages/taloo-paratha.jpg",
+                "altTxt": "paratha image",
+                "description": "Tandoori aloo paratha is a stuffed flatbread filled with spiced mashed potatoes, cooked in a tandoor.",
+                "price": "70.00",
+                "quantity": "1"
+            },
+            "TMix-Parantha": {
+                "name": "Mix Parantha",
+                "imgsrc": "/FoodImages/tmix-paratha.jpg",
+                "altTxt": "paratha image",
+                "description": "Tandoori Mix paratha is a stuffed flatbread filled with a mixture of spiced vegetables like potatoes, carrots, peas, and onions.",
+                "price": "90.00",
+                "quantity": "1"
+            },
+            "TPaneer-Parantha": {
+                "name": "Paneer Parantha",
+                "imgsrc": "/FoodImages/tpaneer-paratha.jpg",
+                "altTxt": "paratha image",
+                "description": "Tandoori paneer paratha is a stuffed flatbread filled with spiced cottage cheese (paneer) mixture, cooked in a tandoor.",
+                "price": "110.00",
+                "quantity": "1"
+            },
+            "Plain Naan": {
+                "name": "Plain Naan",
+                "imgsrc": "/FoodImages/plain-naan.jpeg",
+                "altTxt": "bread image",
+                "description": "Plain naan is a soft, leavened flatbread made with refined flour and traditionally cooked in a tandoor. It’s light and fluffy.",
+                "price": "50.00",
+                "quantity": "1"
+            },
+            "Butter Naan": {
+                "name": "Butter Naan",
+                "imgsrc": "/FoodImages/butter-naan1.jpg",
+                "altTxt": "bread image",
+                "description": "Butter naan is a soft, leavened flatbread made with refined flour, cooked in a tandoor, and generously brushed with melted butter.",
+                "price": "75.00",
+                "quantity": "1"
+            },
+            "Stuff Naan": {
+                "name": "Stuff Naan",
+                "imgsrc": "/FoodImages/stuff-naan.jpg",
+                "altTxt": "bread image",
+                "description": "Stuff Naan is a stuffed flatbread made with refined flour filled with spiced mashed potatoes, cooked in a tandoor.",
+                "price": "90.00",
+                "quantity": "1"
+            },
+            "Paneer Naan": {
+                "name": "Paneer Naan",
+                "imgsrc": "/FoodImages/paneer-naan.jpg",
+                "altTxt": "bread image",
+                "description": "Paneer naan is a soft, leavened flatbread stuffed with a spiced paneer (cottage cheese) mixture, cooked in a tandoor.",
+                "price": "120.00",
+                "quantity": "1"
+            },
+            "Garlic Naan": {
+                "name": "Garlic Naan",
+                "imgsrc": "/FoodImages/garlic-naan.jpg",
+                "altTxt": "bread image",
+                "description": "Garlic Naan is a soft and fluffy Indian flatbread infused with the irresistible aroma of freshly minced garlic and brushed with melted butter.",
+                "price": "100.00",
+                "quantity": "1"
+            },
+            "Onion Kulcha": {
+                "name": "Onion Kulcha",
+                "imgsrc": "/FoodImages/onion-kulcha.jpeg",
+                "altTxt": "kulcha image",
+                "description": "Onion kulcha is a soft, leavened flatbread stuffed with spiced, finely chopped onions and cooked in a tandoor. It has a savory flavor.",
+                "price": "90.00",
+                "quantity": "1"
+            }
+        }
+    },
+    "Tawa": {
+        "heading": "Tawa",
+        "value": {
+            "Roti": {
+                "name": "Roti",
+                "imgsrc": "/FoodImages/tawa-roti.jpg",
+                "altTxt": "roti image",
+                "description": "Flatbread made from whole wheat flour, commonly eaten in India. It is a staple food, served with curries, vegetables, or lentils.",
+                "price": "25.00",
+                "quantity": "1"
+            },
+            "Butter-Roti": {
+                "name": "Butter Roti",
+                "imgsrc": "/FoodImages/butter-tawa-roti1.jpeg",
+                "altTxt": "butter roti image",
+                "description": "Butter tawa roti is a soft, unleavened flatbread cooked on a tawa (griddle) and brushed with melted butter. It’s a flavorful variation of plain roti, perfect with curries or dals.",
+                "price": "30.00",
+                "quantity": "1"
+            },
+            "Plain-Parantha": {
+                "name": "Plain Parantha",
+                "imgsrc": "/FoodImages/tawa-paratha.jpg",
+                "altTxt": "parantha image",
+                "description": "Plain parantha is a layered, flatbread made from whole wheat flour, cooked on a tawa with a bit of oil or ghee.",
+                "price": "50.00",
+                "quantity": "1"
+            },
+            "Aloo-Parantha": {
+                "name": "Aloo Parantha",
+                "imgsrc": "/FoodImages/aloo-paratha.jpg",
+                "altTxt": "parantha image",
+                "description": "Aloo parantha is a stuffed flatbread filled with a spiced potato mixture, cooked on a tawa with ghee or oil.",
+                "price": "70.00",
+                "quantity": "1"
+            },
+            "Mix-Parantha": {
+                "name": "Mix Parantha",
+                "imgsrc": "/FoodImages/mix-veg-paratha.jpeg",
+                "altTxt": "parantha image",
+                "description": "Mix parantha is a stuffed flatbread filled with a mixture of spiced vegetables like potatoes, carrots, peas, and onions.",
+                "price": "90.00",
+                "quantity": "1"
+            },
+            "Paneer-Parantha": {
+                "name": "Paneer Parantha",
+                "imgsrc": "/FoodImages/tawa-paneer-paratha.jpg",
+                "altTxt": "parantha image",
+                "description": "Paneer parantha is a stuffed flatbread filled with a spiced cottage cheese (paneer) mixture, cooked on a tawa with ghee or oil.",
+                "price": "110.00",
+                "quantity": "1"
+            }
+        }
+    },
+    "Rice": {
+        "heading": "Rice",
+        "value": {
+            "Plain-Rice": {
+                "name": "Plain Rice",
+                "imgsrc": "/FoodImages/plain-rice.jpg",
+                "altTxt": "rice image",
+                "description": "Plain rice is a simple dish made by boiling rice in water until soft and fluffy. It’s a versatile staple that pairs well with curries, dals, or any side dish.",
+                "price": "140.00"
+            },
+            "Jeera-Rice": {
+                "name": "Jeera Rice",
+                "imgsrc": "/FoodImages/jeera-rice.jpg",
+                "altTxt": "rice image",
+                "description": "Jeera rice is a fragrant and flavorful dish made by cooking rice with cumin seeds (jeera) and mild spices. It’s a simple yet aromatic side.",
+                "price": "170.00"
+            },
+            "Veg-Pulaoo": {
+                "name": "Veg. Pulaoo",
+                "imgsrc": "/FoodImages/veg-pulao.jpeg",
+                "altTxt": "rice image",
+                "description": "Veg pulaoo is a flavorful rice dish cooked with mixed vegetables, aromatic spices, and sometimes nuts or herbs. It’s a wholesome and delicious one-pot meal.",
+                "price": "225.00"
+            },
+            "Paneer-Pulaoo": {
+                "name": "Paneer Pulaoo",
+                "imgsrc": "/FoodImages/paneer-pulao.jpeg",
+                "altTxt": "rice image",
+                "description": "Paneer pulao is a fragrant rice dish cooked with soft paneer cubes, aromatic spices, and vegetables. It’s a rich and flavorful one-pot meal.",
+                "price": "300.00"
+            },
+            "Mutter-Pulaoo": {
+                "name": "Mutter Pulaoo",
+                "imgsrc": "/FoodImages/mutter-pulao.jpeg",
+                "altTxt": "rice image",
+                "description": "Mutter pulao is a fragrant rice dish made with green peas, aromatic spices, and basmati rice. It’s a simple yet flavorful meal.",
+                "price": "250.00"
+            },
+            "Kashmiri-Pulaoo": {
+                "name": "Kashmiri Pulaoo",
+                "imgsrc": "/FoodImages/kashmiri-pulao.jpeg",
+                "altTxt": "rice image",
+                "description": "Kashmiri pulao is a rich and aromatic rice dish made with saffron, dry fruits, nuts, and a hint of mild spices. It’s a slightly sweet and flavorful delicacy.",
+                "price": "300.00"
+            },
+            "Veg-Biryani": {
+                "name": "Veg. Biryani",
+                "imgsrc": "/FoodImages/veg-biryani.jpeg",
+                "altTxt": "rice image",
+                "description": "Veg biryani is a flavorful and aromatic rice dish cooked with mixed vegetables, spices, and herbs, layered with basmati rice.",
+                "price": "300.00"
+            },
+            "Handi-Biryani": {
+                "name": "Handi Biryani",
+                "imgsrc": "/FoodImages/handi-biryani.jpeg",
+                "altTxt": "rice image",
+                "description": "Handi biryani is a traditional biryani cooked in a clay pot (handi), layered with rice, vegetables or meat, and aromatic spices. It’s slow-cooked for a rich, smoky flavor and served with raita or salad.",
+                "price": "300.00"
+            }
+        }
+    },
+    "Sweets": {
+        "heading": "Sweets",
+        "value": {
+            "Rasgulla": {
+                "name": "Haldiram Rasgulla",
+                "imgsrc": "/FoodImages/rasgulla.jpg",
+                "altTxt": "rasgulla image",
+                "description": "Rasgulla is a popular Indian dessert made from soft, spongy balls of chhena (cottage cheese) cooked in a light sugar syrup.",
+                "price": "70.00",
+                "quantity": "2"
+            }
+        }
+    },
+    "Thalis": {
+        "heading": "Thali's",
+        "value": {
+            "South-Indian-Thali": {
+                "name": "South Indian Thali",
+                "imgsrc": "/FoodImages/south-indian-thali1.jpg",
+                "altTxt": "thali image",
+                "description": "1 Rice, Sambhar, 1 Vegetable, Rasam, Curd, Pickle, Papad. Roti and Rice will be unlimited but only allowed for one-person.",
+                "price": "275.00"
+            },
+            "Sewa-Thali": {
+                "name": "Sewa Thali",
+                "imgsrc": "/FoodImages/veg-thali.jpg",
+                "altTxt": "thali image",
+                "description": "1 Vegetable, Dal, Rice, Kadi, Tandoori Roti. Roti and Rice will be unlimited but only allowed for one-person.",
+                "price": "175.00"
+            },
+            "Badrish-Thali": {
+                "name": "Badrish Thali",
+                "imgsrc": "/FoodImages/veg-thali.jpg",
+                "altTxt": "thali image",
+                "description": "2 Vegetable, Dal, Rice, Roti. Roti and Rice will be unlimited but only allowed for one-person.",
+                "price": "225.00"
+            },
+            "Marwari-Thali": {
+                "name": "Marwari Thali",
+                "imgsrc": "/FoodImages/marwari-thali.jpg",
+                "altTxt": "thali image",
+                "description": "2 Vegetable, Dal, Kadi, Papad, Rice, Pickle, Chapati, Salad. Roti and Rice will be unlimited but only allowed for one-person.",
+                "price": "275.00"
+            },
+            "Gujrati-Thali": {
+                "name": "Gujrati Thali",
+                "imgsrc": "/FoodImages/marwari-thali.jpg",
+                "altTxt": "thali image",
+                "description": "2 Vegetable, Dal, Kadi, Papad, Rice, Pickle, Chapati, Salad. Roti and Rice will be unlimited but only allowed for one-person.",
+                "price": "275.00"
+            },
+            "Punjabi-Thali": {
+                "name": "Punjabi Thali",
+                "imgsrc": "/FoodImages/punjabi-thali.jpg",
+                "altTxt": "thali image",
+                "description": "2 Vegetable, Dal, Papad, Salad, Pulao, Pickle, Tandoori Roti. Roti and Rice will be unlimited but only allowed for one-person.",
+                "price": "300.00"
+            },
+            "Restaurant-Special-Thali": {
+                "name": "Restaurant Special Thali",
+                "imgsrc": "/FoodImages/special-thali.jpg",
+                "altTxt": "thali image",
+                "description": "Thali will be created according to the seasons specials. You can get more details on this from Serving waiter.",
+                "price": "400.00"
+            }
+        }
+    }
+}

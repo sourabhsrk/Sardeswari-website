@@ -1,0 +1,76 @@
+.contactContent {
+    padding: 30px;
+}
+.addrsContainer {
+    display: flex;
+    gap: 30px;
+}
+.addrsBox {
+    padding: 30px;
+    background: #ebeaea;
+    width: calc(100% / 2 - 30px);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+}
+.addrsBox h1 {
+    font-size: 40px;
+    color: #BD3336;
+}
+.addrsBox address {
+    font-size: 28px;
+}
+.addrsBox p {
+    font-size: 26px;
+}
+.addrsBox h2 {
+    font-size: 34px;
+    margin-bottom: 0;
+    color: #BD3336;
+}
+.mapView {
+    width: calc(100% / 2);  
+    position: relative;
+}
+
+.mapView iframe {
+    border: 0;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+@media (max-width: 1150px) {
+    .contactContent {
+        padding: 20px;
+    }
+    .addrsContainer {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .addrsBox {
+        height: 300px;
+        width: calc(100% - 30px);
+        padding: 15px;
+    }
+    .addrsBox h1 {
+        font-size: 26px;
+    }
+    .addrsBox address {
+        font-size: 17px;
+    }
+    .addrsBox h2 {
+        font-size: 22px;
+        margin-bottom: 0;
+    }
+    .addrsBox p {
+        font-size: 17px;
+    }
+    .mapView {
+        height: 400px;
+        width: 100%;
+   } 
+}
