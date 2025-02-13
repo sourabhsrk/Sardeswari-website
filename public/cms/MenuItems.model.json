@@ -33,7 +33,7 @@
             },
             "Kadai-Paneer": {
                 "name": "Kadai Paneer",
-                "imgsrc": "/FoodImages/kadai-paneer2.jpg",
+                "imgsrc": "/FoodImages/Kadai-Paneer.jpg",
                 "altTxt": "paneer image",
                 "description": "Kadai Paneer is a vibrant and aromatic dish made with soft paneer cubes cooked in a spiced tomato and bell pepper gravy, infused with the bold flavors of freshly ground spices.",
                 "price": "350.00"
@@ -411,7 +411,7 @@
             },
             "Kadai-Paneer": {
                 "name": "Kadai Paneer",
-                "imgsrc": "/FoodImages/kadai-paneer2.jpg",
+                "imgsrc": "/FoodImages/Kadai-Paneer.jpg",
                 "altTxt": "paneer image",
                 "description": "Kadai Paneer is a vibrant and aromatic dish made with soft paneer cubes cooked in a spiced tomato and bell pepper gravy, infused with the bold flavors of freshly ground spices.",
                 "price": "350.00"

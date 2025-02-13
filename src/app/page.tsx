@@ -1,10 +1,10 @@
 import Landing from "@/Components/Landing/Landing";
 import Owner from "@/Components/Owner/Owner";
 import PopularItems from "@/Components/PopularItems/PopularItems";
+import SeparationImage from "@/Components/SeparationImage/SeparationImage";
 import Services from "@/Components/Services/Services";
 import SocialMedia from "@/Components/SocialMedia/SocialMedia";
 import Testimonials from "@/Components/Testimonials/Testimonials";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -34,9 +34,7 @@ export default function Home() {
           <Services/>
         </section>
         <section>
-          <div style={{ position: "relative", width: "100%", height: "60vh" }}>
-            <Image src="/contactbg.jpg" alt="foodimage" fill/>
-          </div>
+          <SeparationImage/>
         </section>
         <section id='testimonials'>
           <Testimonials/>
