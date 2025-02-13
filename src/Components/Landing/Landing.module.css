@@ -21,7 +21,13 @@
     letter-spacing: 10px;
 }
 
+.ratingContainer {
+    display: flex;
+}
+
 .starContainer {
+    display: inline-flex;
+    align-items: center;
     color: #FFD700;
     margin: 0 5px;
 }
