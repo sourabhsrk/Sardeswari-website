@@ -7,7 +7,7 @@ export default function Owner() {
         <div className={OwnerStyles.ownerContainer}>
             <div className={OwnerStyles.ownerDetailsBox}>
                 <p>“We believe in creating an unmatched experience by maintaining the highest standard of quality, hygiene, service and customer satisfaction.”</p>
-                <p className={OwnerStyles.ownerName}><strong>Mr. Virender Dutt Ranakoti,</strong></p>
+                <p className={OwnerStyles.ownerName}><strong>Mr. Virendra Dutt Ranakoti,</strong></p>
                 <p className={OwnerStyles.ownerDesignation}><strong>MahaMantri, VyaparSabha Badrinath</strong></p>
                 <button className={OwnerStyles.readMoreBtn}>Read more</button>
             </div>

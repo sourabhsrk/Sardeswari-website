@@ -25,7 +25,7 @@ export default function Landing() {
       </h2>
       <h1 className={landingStyles.restaurantName}> Sardeswari</h1>
       <p className={landingStyles.ratingContainer}>
-        <span>86+</span>
+        <span>105+</span>
         <span className={landingStyles.starContainer}>
           {Array.from({ length: 5 }).map((_, index) => {
             if (index === 4) {
