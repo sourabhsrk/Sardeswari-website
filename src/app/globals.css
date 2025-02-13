@@ -139,6 +139,10 @@ nav a:hover {
         width: 100%;
         align-items: center;
     }
+    .sideBar li {
+        height: 95px;
+        padding-top: 0;
+    }
 }
 
 @keyframes slideDown {

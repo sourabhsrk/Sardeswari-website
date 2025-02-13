@@ -26,7 +26,7 @@ export default function Navbar() {
       };
     }, []);
 
-    const IconStyle = {fontSize: '40px', color: '#FFFFFF', p: '30px'};
+    const IconStyle = {fontSize: {xs: '35px', sm: '40px'}, color: '#FFFFFF', p: '30px'};
     const isBtnActive = (path: string): boolean => {
       return pathname === path;
     }
