@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "@/Components/Navbar";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
   title: "Sardeswari Restaurant",
@@ -25,6 +26,7 @@ export default function RootLayout({
       <body className="open-sans-font">
         <Navbar />
         {children}
+        <Analytics />
       </body>
     </html>
   );
