@@ -43,7 +43,7 @@ export default function Landing() {
         <p className={landingStyles.addressStyles}>Near Devlok Chowk, Across Nanda Devi</p>
         <p className={landingStyles.addressStyles}>Badrinath, Uttarakhand, PIN: 246422</p>
       </div>
-      <button className={landingStyles.bookNowBtn}>Book a table now</button>
+      <button className={landingStyles.bookNowBtn} onClick={() => window.location.href = '/contact'}>Book a table now</button>
       
     </div>
   );
