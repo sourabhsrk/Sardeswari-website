@@ -4,10 +4,28 @@ import Navbar from "@/Components/Navbar";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
-  title: "Sardeswari Restaurant",
-  description: "We are serving the best food in Badrinath.",
+  title: "Best Restaurant in Badrinath | Sardeswari Restaurant",
+  description: "We are serving the best food in Badrinath. Enjoy the finest South Indian, North Indian, Indo-Chinese, Marwari, Gujarati and Punjabi dishes.",
+  keywords: ["Best vegetarian restaurant in Badrinath", "Gujrati, Punjabi Food in Badrinath", "Best Dosa", "Best Aloo Paratha", "Best Chole Bhature", "Best Coffee"],
   icons: {
     icon: "/favicon.png",
+  },
+  robots: {
+    index: true, // Allow indexing
+    follow: true, // Allow following links on the page
+  },
+  openGraph: {
+    title: "Best Restaurant in Badrinath | Sardeswari Restaurant",
+  description: "We are serving the best food in Badrinath. Enjoy the finest South Indian, North Indian, Indo-Chinese, Marwari, Gujarati and Punjabi dishes.",
+    url: "https://www.sardeswari.in",
+    siteName: "Sardeswari Restaurant",
+    images: [
+      {
+        url: "https://www.sardeswari.in/SocialMediaImages/media12.jpg",
+        alt: "Restaurant Image",
+      },
+    ],
+    type: "website"
   }
 };
 
