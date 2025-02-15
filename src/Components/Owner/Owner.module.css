@@ -87,3 +87,9 @@
     }
 }
 
+@media(max-width: 450px) {
+    .ownerDetailsBox {
+        padding: 30px 10%;
+    }
+}
+

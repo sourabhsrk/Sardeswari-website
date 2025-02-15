@@ -12,6 +12,7 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
     margin-bottom: 35px;
+    gap: 20px;
 }
 .insta1, .insta2, .facebook {
     display: flex;

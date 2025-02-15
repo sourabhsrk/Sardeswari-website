@@ -44,4 +44,7 @@
     .servicesHeading h1 {
         font-size: 32px;
     }
+    .servicesContainer {
+        gap: 8px;
+    }
 }
