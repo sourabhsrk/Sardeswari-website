@@ -2,7 +2,7 @@
 import { Typewriter } from "react-simple-typewriter";
 import landingStyles from "./Landing.module.css";
 import StarIcon from "@mui/icons-material/Star";
-import StarBorderIcon from "@mui/icons-material/StarBorder";
+import StarHalfIcon from '@mui/icons-material/StarHalf';
 
 export default function Landing() {
   return (
@@ -25,17 +25,17 @@ export default function Landing() {
       </h2>
       <h1 className={landingStyles.restaurantName}> Sardeswari</h1>
       <p className={landingStyles.ratingContainer}>
-        <span>105+</span>
+        <span>155+</span>
         <span className={landingStyles.starContainer}>
           {Array.from({ length: 5 }).map((_, index) => {
             if (index === 4) {
-              return <StarBorderIcon key={index} sx={{fontSize: '1em'}}/>;
+              return <StarHalfIcon key={index} sx={{fontSize: '1em'}}/>;
             }
             return <StarIcon key={index} sx={{fontSize: '1em'}}/>;
           })}
         </span>
         <span>
-          4.2 reviews 
+          4.4 reviews 
           <a href="https://g.co/kgs/v9UhLeQ" target="_blank" className={landingStyles.googleReviewLink}>on google</a>
         </span>
       </p>
