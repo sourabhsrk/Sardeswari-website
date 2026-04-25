@@ -123,7 +123,7 @@
                 "imgsrc": "/FoodImages/aloo-poori.jpeg",
                 "altTxt": "poori image",
                 "description": "Aloo poori is a popular North Indian dish consisting of deep-fried, puffed wheat bread (poori) served with a spiced potato curry (aloo).",
-                "price": "140.00",
+                "price": "150.00",
                 "quantity": "4"
             },
             "Chole-Bhature": {
@@ -131,7 +131,7 @@
                 "imgsrc": "/FoodImages/Chole-Bhature.jpg",
                 "altTxt": "Chole Bhature image",
                 "description": "Chole Bhature is a classic North Indian dish featuring spicy, tangy chickpea curry (chole) served with deep-fried, fluffy bread (bhature).",
-                "price": "140.00",
+                "price": "150.00",
                 "quantity": "2"
             },
             "Veg-Cutlet": {
@@ -139,7 +139,7 @@
                 "imgsrc": "/FoodImages/cutlet.jpeg",
                 "altTxt": "cutlet image",
                 "description": "Veg cutlet is a crispy, fried patty made from mashed vegetables like potatoes, carrots, peas, and beans, mixed with spices.",
-                "price": "225.00",
+                "price": "250.00",
                 "quantity": "2"
             },
             "Paneer-Cutlet": {
@@ -147,7 +147,7 @@
                 "imgsrc": "/FoodImages/cutlet.jpeg",
                 "altTxt": "cutlet image",
                 "description": "Paneer cutlet is a crispy, fried patty made from grated paneer (cottage cheese) mixed with vegetables, breadcrumbs, and spices.",
-                "price": "300.00",
+                "price": "350.00",
                 "quantity": "2"
             },
             "Finger-Chips": {
@@ -162,7 +162,7 @@
                 "imgsrc": "/FoodImages/butter-toast.jpg",
                 "altTxt": "toast image",
                 "description": "Butter toast is a simple dish made by spreading butter on toasted bread, often served as a snack or breakfast. It’s crunchy and flavorful.",
-                "price": "120.00",
+                "price": "135.00",
                 "quantity": "4"
             },
             "Jam-Toast": {
@@ -170,7 +170,7 @@
                 "imgsrc": "/FoodImages/jam-toast.jpg",
                 "altTxt": "toast image",
                 "description": "Jam toast is a slice of toasted bread spread with fruit jam or preserves. It’s a sweet, simple snack or breakfast option.",
-                "price": "150.00",
+                "price": "165.00",
                 "quantity": "4"
             },
             "Jam-Butter-Toast": {
@@ -178,7 +178,7 @@
                 "imgsrc": "/FoodImages/butter-jam-toast.jpg",
                 "altTxt": "toast image",
                 "description": "Jam butter toast is a slice of toasted bread spread with a layer of butter and topped with fruit jam. It’s a sweet and rich breakfast or snack.",
-                "price": "170.00",
+                "price": "180.00",
                 "quantity": "4"
             },
             "Veg-Sandwich": {
@@ -186,7 +186,7 @@
                 "imgsrc": "/FoodImages/veg-sand.jpg",
                 "altTxt": "sandwich image",
                 "description": "Sandwich made with a variety of fresh, chopped vegetables like cucumber, tomatoes, lettuce, and carrots, often spread with butter or chutney.",
-                "price": "120.00",
+                "price": "135.00",
                 "quantity": "4"
             },
             "Veg-Grilled-Sandwich": {
@@ -194,7 +194,7 @@
                 "imgsrc": "/FoodImages/grilled-veg-sand.jpg",
                 "altTxt": "sandwich image",
                 "description": "Veg grilled sandwich is a sandwich filled with spiced vegetables like potatoes, cheese, and greens, then grilled to a crispy, golden texture.",
-                "price": "150.00",
+                "price": "160.00",
                 "quantity": "4"
             },
             "Paneer-Grilled-Sandwich": {
@@ -202,7 +202,7 @@
                 "imgsrc": "/FoodImages/grilled-paneer-sand.jpg",
                 "altTxt": "sandwich image",
                 "description": "Paneer grilled sandwich is a sandwich filled with spiced paneer (cottage cheese) and vegetables, grilled to a crispy golden finish.",
-                "price": "180.00",
+                "price": "190.00",
                 "quantity": "4"
             }
         }
@@ -344,35 +344,35 @@
                 "imgsrc": "/FoodImages/mutter-paneer.jpeg",
                 "altTxt": "paneer image",
                 "description": "Mutter-paneer is a classic North Indian curry made with soft paneer cubes and green peas simmered in a flavorful tomato-based gravy.",
-                "price": "275.00"
+                "price": "290.00"
             },
             "Chana-Paneer": {
                 "name": "Chana Paneer",
                 "imgsrc": "/FoodImages/chana-paneer.jpeg",
                 "altTxt": "paneer image",
                 "description": "Chana paneer is a flavorful North Indian dish made with chickpeas (chana) and paneer cubes cooked in a spiced tomato-onion gravy.",
-                "price": "275.00"
+                "price": "290.00"
             },
             "Shahi-Paneer": {
                 "name": "Shahi Paneer",
                 "imgsrc": "/FoodImages/shahi-paneer.jpeg",
                 "altTxt": "paneer image",
                 "description": "Shahi paneer is a rich and creamy North Indian curry made with paneer cubes cooked in a luscious gravy of tomatoes, cream, and cashews. It’s a royal delicacy, best served with naan or pulao.",
-                "price": "300.00"
+                "price": "325.00"
             },
             "Cheese-Tomato": {
                 "name": "Cheese Tomato",
                 "imgsrc": "/FoodImages/cheese-tomato.jpeg",
                 "altTxt": "paneer image",
                 "description": "Cheese tomato is a rich and creamy dish made with ripe tomatoes cooked in a spiced gravy, topped with melted cheese.",
-                "price": "300.00"
+                "price": "350.00"
             },
             "Mushroom-Paneer": {
                 "name": "Mushroom Paneer",
                 "imgsrc": "/FoodImages/mushroom-paneer.jpg",
                 "altTxt": "paneer image",
                 "description": "Cheese tomato is a rich and creamy dish made with ripe tomatoes cooked in a spiced gravy, topped with melted cheese.",
-                "price": "350.00"
+                "price": "400.00"
             },
             "Khoya-Paneer": {
                 "name": "Khoya Paneer",
@@ -393,7 +393,7 @@
                 "imgsrc": "/FoodImages/paneer-pasanda.jpeg",
                 "altTxt": "paneer image",
                 "description": "Paneer pasanda is a rich and indulgent North Indian curry made with stuffed paneer slices cooked in a creamy, nutty gravy of tomatoes, yogurt, and spices.",
-                "price": "350.00"
+                "price": "375.00"
             },
             "Palak-Paneer": {
                 "name": "Palak Paneer",
@@ -496,21 +496,21 @@
                 "imgsrc": "/FoodImages/aloo-gobhi.jpeg",
                 "altTxt": "aloo image",
                 "description": "Aloo gobhi is a classic Indian dish made with potatoes (aloo) and cauliflower (gobhi) cooked with onions, tomatoes, and aromatic spices.",
-                "price": "225.00"
+                "price": "250.00"
             },
             "Aloo-Mutter": {
                 "name": "Aloo Mutter",
                 "imgsrc": "/FoodImages/aloo-mutter.jpeg",
                 "altTxt": "aloo image",
                 "description": "Aloo mutter is a hearty North Indian curry made with potatoes (aloo) and green peas (mutter) cooked in a spiced tomato-onion gravy.",
-                "price": "225.00"
+                "price": "250.00"
             },
             "Aloo-Chole": {
                 "name": "Aloo Chole",
                 "imgsrc": "/FoodImages/aloo-chole.jpeg",
                 "altTxt": "aloo image",
                 "description": "Aloo chole is a flavorful North Indian curry made with chickpeas (chole) and potatoes (aloo) simmered in a spiced tomato-onion gravy.",
-                "price": "225.00"
+                "price": "250.00"
             },
             "Baigan-Bharta": {
                 "name": "Baigan Bharta",
@@ -524,49 +524,49 @@
                 "imgsrc": "/FoodImages/chana-masala.jpeg",
                 "altTxt": "chana image",
                 "description": "Chana masala is a spicy and tangy North Indian curry made with chickpeas cooked in a flavorful tomato-onion gravy with aromatic spices.",
-                "price": "225.00"
+                "price": "275.00"
             },
             "Mix-Veg": {
                 "name": "Mix Veg.",
                 "imgsrc": "/FoodImages/mix-veg.jpeg",
                 "altTxt": "mix veg image",
                 "description": "Mix Veg. is dry sabji with all the available seasonal vegies like gobhi, beans, potato, carrot, peas, capcicum etc.",
-                "price": "275.00"
+                "price": "295.00"
             },
             "Dum-Aloo": {
                 "name": "Dum Aloo",
                 "imgsrc": "/FoodImages/dum-aloo.jpeg",
                 "altTxt": "aloo image",
                 "description": "Dum aloo is a rich and flavorful North Indian dish made with baby potatoes cooked in a spiced, creamy gravy, often prepared using the slow-cooking method (dum).",
-                "price": "275.00"
+                "price": "300.00"
             },
             "Malai-Kofta": {
                 "name": "Malai Kofta",
                 "imgsrc": "/FoodImages/malai-kofta.jpeg",
                 "altTxt": "kofta image",
                 "description": "Malai kofta is a rich and creamy North Indian curry made with deep-fried dumplings of paneer and potatoes (koftas) simmered in a smooth tomato-based gravy.",
-                "price": "300.00"
+                "price": "325.00"
             },
             "Veg-Kofta": {
                 "name": "Veg Kofta",
                 "imgsrc": "/FoodImages/veg-kofta.jpeg",
                 "altTxt": "kofta image",
                 "description": "Veg kofta is a savory dish made with deep-fried vegetable dumplings, typically made from mashed vegetables like carrots, peas, and potatoes, cooked in a spiced gravy.",
-                "price": "275.00"
+                "price": "300.00"
             },
             "Stuff-Tomato": {
                 "name": "Stuff Tomato",
                 "imgsrc": "/FoodImages/stuffed-tomato.jpeg",
                 "altTxt": "stuff tomato image",
                 "description": "Stuffed tomato is a flavorful dish where tomatoes are hollowed out and filled with a spiced mixture of mashed vegetables, rice, or paneer, then baked or cooked in a gravy.",
-                "price": "275.00"
+                "price": "300.00"
             },
             "Mutter-Mushroom": {
                 "name": "Mutter Mushroom",
                 "imgsrc": "/FoodImages/matar-mushroom.jpg",
                 "altTxt": "mushroom image",
                 "description": "Mutter Mushroom is a delightful North Indian curry made with tender mushrooms and green peas cooked in a spiced onion-tomato gravy.",
-                "price": "300.00"
+                "price": "325.00"
             },
             "Mushroom-Masala": {
                 "name": "Mushroom Masala",
@@ -822,14 +822,14 @@
                 "imgsrc": "/FoodImages/triple-fried-rice1.jpeg",
                 "altTxt": "rice image",
                 "description": "This dish is a flavorful Indo-Chinese dish made by stir-frying three types of rice usually plain rice, Schezwan rice, and vegetable rice along with mixed vegetables and sauces.",
-                "price": "300.00"
+                "price": "350.00"
             },
             "Veg-Crispy": {
                 "name": "Veg. Crispy",
                 "imgsrc": "/FoodImages/veg-crispy.jpeg",
                 "altTxt": "veg crispy image",
                 "description": "Veg crispy is a popular Indo-Chinese dish made with battered and deep-fried mixed vegetables like cauliflower, broccoli, and bell peppers, tossed in a spicy and tangy sauce.",
-                "price": "300.00"
+                "price": "350.00"
             }
         }
     },
@@ -933,7 +933,7 @@
                 "imgsrc": "/FoodImages/tplain-paratha.jpg",
                 "altTxt": "parantha image",
                 "description": "Tandoori plain paratha is a flaky, layered flatbread made from whole wheat flour, cooked in a tandoor. It has a smoky flavor",
-                "price": "50.00",
+                "price": "60.00",
                 "quantity": "1"
             },
             "TAloo-Parantha": {
@@ -1034,7 +1034,7 @@
                 "imgsrc": "/FoodImages/tawa-paratha.jpg",
                 "altTxt": "parantha image",
                 "description": "Plain parantha is a layered, flatbread made from whole wheat flour, cooked on a tawa with a bit of oil or ghee.",
-                "price": "50.00",
+                "price": "60.00",
                 "quantity": "1"
             },
             "Aloo-Parantha": {
@@ -1152,35 +1152,35 @@
                 "imgsrc": "/FoodImages/veg-thali.jpg",
                 "altTxt": "thali image",
                 "description": "1 Vegetable, Dal, Rice, Kadi, Tandoori Roti. Roti and Rice will be unlimited but only allowed for one-person.",
-                "price": "175.00"
+                "price": "200.00"
             },
             "Badrish-Thali": {
                 "name": "Badrish Thali",
                 "imgsrc": "/FoodImages/veg-thali.jpg",
                 "altTxt": "thali image",
                 "description": "2 Vegetable, Dal, Rice, Roti. Roti and Rice will be unlimited but only allowed for one-person.",
-                "price": "225.00"
+                "price": "250.00"
             },
             "Marwari-Thali": {
                 "name": "Marwari Thali",
                 "imgsrc": "/FoodImages/marwari-thali.jpg",
                 "altTxt": "thali image",
                 "description": "2 Vegetable, Dal, Kadi, Papad, Rice, Pickle, Chapati, Salad. Roti and Rice will be unlimited but only allowed for one-person.",
-                "price": "275.00"
+                "price": "300.00"
             },
             "Gujrati-Thali": {
                 "name": "Gujrati Thali",
                 "imgsrc": "/FoodImages/marwari-thali.jpg",
                 "altTxt": "thali image",
                 "description": "2 Vegetable, Dal, Kadi, Papad, Rice, Pickle, Chapati, Salad. Roti and Rice will be unlimited but only allowed for one-person.",
-                "price": "275.00"
+                "price": "300.00"
             },
             "Punjabi-Thali": {
                 "name": "Punjabi Thali",
                 "imgsrc": "/FoodImages/punjabi-thali.jpg",
                 "altTxt": "thali image",
                 "description": "2 Vegetable, Dal, Papad, Salad, Pulao, Pickle, Tandoori Roti. Roti and Rice will be unlimited but only allowed for one-person.",
-                "price": "300.00"
+                "price": "325.00"
             },
             "Restaurant-Special-Thali": {
                 "name": "Restaurant Special Thali",
